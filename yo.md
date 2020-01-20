@@ -23,8 +23,7 @@ Algunos de los temas que me llaman la atención son:
 ## Pasatiempos
 ______________________________________________________________________________
   - Me encanta ver películas y series.
-  - Leer [^1]
+  - Leer
   - Hacer caminatas ecológicas 
   - Pasar tiempo con mi familia y mi novio.
 
-[^1]: Excepto libros de ciencia ficción y fantasía. 
