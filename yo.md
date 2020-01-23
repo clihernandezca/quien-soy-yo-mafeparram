@@ -5,7 +5,7 @@
 
 Hola a todos!
 Mi nombre es María Fernanda, pero pueden decirme *Mafe*.
-
+____________________________________________________________________________
 ## Carrera
 _____________________________________________________________________________
 Soy psicóloga egresada de la Javeriana. Mi trabajo de grado fue acerca de las actitudes implicitas y explicitas frente a la agresión escolar y el Schadenfreude (palabra alemana acuñada para describir el placer por el infortunio del otro).
